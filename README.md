@@ -1,6 +1,6 @@
 # FluidCard
 
-### M5StampS3 Microcontroller dispose d´un 
+### M5StampS3 Cardputer dispose d´un 
 
 Interrupteur physique 
 - Marche / Arret
@@ -14,7 +14,8 @@ Bouton poussoir
 
 clavier de 56 touches permettant la saisie de donnée et le guidage multidirectionnel.
 - 74HC138
-  - 
+  - .
+  
 
   - Saisie de texte
 l´ecran de 1.14 pouce IPS-LCD fait 240pixel sur la largeur et 135 pixels sur la hauteur.
@@ -52,7 +53,7 @@ Microphone
   - Implementation inutile
 
 Controleur infrarouge 
-- 
+- .
   - Implementation inutile
 
 Port HY2.0-4P pour le branchement ou l´extention de capteur I2C
