@@ -58,7 +58,7 @@ Port HY2.0-4P pour le branchement ou l´extention de capteur I2C
   - Alimentation 5V reversible par commutateur physique sur la tranche de l´appareil 
 
 Emplacement Carte Micro SD
-- 
+- .
   - enregistrement des fichiers
   - Serveur de fichier
   - log
