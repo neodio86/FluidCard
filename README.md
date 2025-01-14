@@ -13,13 +13,11 @@ Bouton poussoir
 - Action parametrable
   - Arret d´urgence ou pause
 
-clavier de 56 touches permettant la saisie de donnée et le guidage multidirectionnel.
+Clavier de 56 touches permettant la saisie de donnée et le guidage multidirectionnel.
 - 74HC138
-  - .
-  
-
   - Saisie de texte
-l´ecran de 1.14 pouce IPS-LCD fait 240pixel sur la largeur et 135 pixels sur la hauteur.
+    
+Ecran de 1.14 pouce IPS-LCD fait 240pixel sur la largeur et 135 pixels sur la hauteur.
 - ST7789V2
   - un menu a defilage lateral infini 
     -Status
@@ -50,12 +48,10 @@ Haut parleur
     - Alerte (Voix indiquant le code Erreur)
 
 Microphone
--SPM1423
-  - Implementation inutile
+- Inutile
 
 Controleur infrarouge 
-- .
-  - Implementation inutile
+- Inutile
 
 Port HY2.0-4P pour le branchement ou l´extention de capteur I2C
 - Port A 
