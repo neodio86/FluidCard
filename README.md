@@ -3,11 +3,11 @@
 #### M5StampS3 Cardputer dispose d´un 
 
 
-Interrupteur physique 
+Interrupteur physique sur la tranche supérieure
 - Marche / Arret
   - Allume et eteint l´appareil
 
-Bouton poussoir sur la tranche supérieur
+Boutons poussoir sur la tranche supérieure
 - bouton Reset
   - Redemarre l´appareil
 - bouton parametrable
