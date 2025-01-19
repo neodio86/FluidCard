@@ -1,7 +1,6 @@
 # FluidCard
 ---------------------------------------------------------------------
-#### M5StampS3 Cardputer dispose d´un 
-
+#### M5StampS3 Cardputer est animé par un StampS3 et dispose de :
 
 Interrupteur physique sur la tranche supérieure
 - Marche / Arret
